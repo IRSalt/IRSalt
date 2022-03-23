@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IRSalt
-- 👀 I’m interested in ... Cyber Security and SQL
+- 👀 I’m interested in ... Cyber Security and Databases
 - 🌱 I’m currently learning ... SQL
 - 📫 How to reach me ... e-mail (michael.west.his@gmail.com)
 
